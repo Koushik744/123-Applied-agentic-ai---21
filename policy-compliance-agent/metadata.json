@@ -1,0 +1,6 @@
+{
+  "name": "Policy Compliance Agent",
+  "description": "An AI-powered policy compliance system with deterministic rule engine, LLM interpretation, synthetic data generation, and evaluation metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

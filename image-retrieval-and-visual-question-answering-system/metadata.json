@@ -1,0 +1,7 @@
+{
+  "name": "Image Retrieval and Visual Question Answering System",
+  "description": "Multimodal AI pipeline for semantic image retrieval and visual question answering powered by Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
